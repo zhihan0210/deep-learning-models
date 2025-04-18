@@ -4,4 +4,4 @@
 
 ### VAE (Variational Auto-Encoder) + Multi-branch VAE
 
-### Pix2Pix
+### pix2pix (Conditional Generative Adversarial Networks)
